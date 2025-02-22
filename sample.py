@@ -13,3 +13,4 @@ print(type(b))
 c = ("apple", "banana", "cherry")	
 print(type(c))
 
+z = 1j   # complex
